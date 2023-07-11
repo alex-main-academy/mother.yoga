@@ -38,6 +38,10 @@
     font-style: normal;
 }
 
+.anim-box {
+    opacity: 1 !important;
+}
+
 * {
     box-sizing: inherit;
 }
